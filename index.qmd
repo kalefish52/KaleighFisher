@@ -5,10 +5,6 @@ about:
   image: Kaleigh_head.png
 ---
 
-I am currently a NIFA postdoctoral fellow working in Dr. Santiago Ramirez's lab at the University of California, Davis (https://sanramlab.org/). I studied bee communities in coffee agroecosystems for my Master's degree at University of Michigan. I then completed my PhD under the supervision of Dr. Hollis Woodard at University of California, Riverside (http://www.woodardlab.com/) where I worked on bumble bee behavior and physiology. 
+I am currently a NIFA postdoctoral fellow working in Dr. Santiago Ramirez's lab at the University of California, Davis (https://sanramlab.org/). I studied bee communities in coffee agroecosystems for my Master's degree at University of Michigan. I then completed my PhD under the supervision of Dr. Hollis Woodard at University of California, Riverside (http://www.woodardlab.com/) where I worked on bumble bee behavior and physiology.
 
-My research aims to understand how evolutionary patterns shape present ecological interactions. I use comparative genomics coupled with chemical ecology and behavioral experiments to study the evolution of bee sensory systems across multiple levels of biological organization. Sensory systems form the direct interface between organisms and their environment and thus underlie many behavioral responses and adaptations to the environment. Because sensory systems lie at this interface, they are an excellent model to understand the connections between genes, phenotypes, and the environment. Check out my research page to learn about current projects. 
-
-
-
-
+My research aims to understand how evolutionary patterns shape present ecological interactions. I use comparative genomics coupled with chemical ecology and behavioral experiments to study the evolution of bee sensory systems across multiple levels of biological organization. Sensory systems form the direct interface between organisms and their environment and thus underlie many behavioral responses and adaptations to the environment. Because sensory systems lie at this interface, they are an excellent model to understand the connections between genes, phenotypes, and the environment. Check out my research page to learn about current projects.
