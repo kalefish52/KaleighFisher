@@ -1,0 +1,27 @@
+---
+title: "Publications"
+about:
+  template: trestles
+---
+
+Gustilo ES, **Fisher K**, Woodard SH. (2023). Parental care behaviour in bumble bee queens is tightly regulated by the number of helpers in incipient nests. In press for Animal Behaviour.
+
+Costa CP, Leza M, Duennes MA, **Fisher K**, Vollaro A, Hur M, Kirkwood JS, Woodard SH. (2022). Pollen diet mediates how pesticide exposure impacts brain gene expression in nest-founding bumble bee queens. *Science of the Total Environment* 833: 155216. DOI: 10.1016/j.scitotenv.2022.155216.
+
+**Fisher K**, Watrous KM, Richardson LL, Williams NM, Woodard SH. (2022b). A contemporary survey of bumble bee diversity across the state of California. *Ecology and Evolution* 12(3): e8505. DOI: 10.1002/ece3.8505.
+
+**Fisher K**, Sarro E, [Miranda CK]{.underline}, [Guillen BM]{.underline}, Woodard SH. Worker task organization in incipient bumble bee nests. (2022a). *Journal of Animal Behaviour* 185: 143-161. DOI: 10.1016/j.anbehav.2021.12.005.
+
+Costa CP, **Fisher K**, [Guillen BM]{.underline}, Bloch G, Yamanaka N, and Woodard SH. (2021) Care-giver identity impacts offspring development and performance in an annually social bumble bee. *BMC Ecology and Evolution.*
+
+Costa CP, Duennes MA, **Fisher K**, Der JP, Watrous KM, Okamoto N, Yamanaka N, and Woodard SH. (2020) Transcriptome analysis reveals nutrition- and age-related patterns of gene expression in the fat body of pre-overwintering bumble bee queens. *Molecular Ecology* 29(4):720-737. DOI: [10.1111/mec.15361](https://doi.org/10.1111/mec.15361).
+
+**Fisher K,** West M, Lomeli AM, Woodard SH and Purcell J. (2018) Are societies resilient? Challenges faced by social insects in a changing world. *Insectes Sociaux*: 1-9.
+
+Vaidya C, **Fisher K** and Vandermeer J. (2018) Colony development and reproductive success of bumblebees in an urban gradient. *Sustainability* 10: 1936.
+
+**Fisher K**, Gonthier D, Ennis K and I Perfecto. (2017) Floral resource availability from groundcover promotes bee abundance in coffee agroecosystems. *Ecological Applications* 27: 1815-1826.
+
+Lu B, Bridges D, Yang Y, **Fisher, K**, Cheng A, Chang L, Meng Z, Lin J, Downes M, Yu R, Liddle C, Evans R and A Saltiel. (2014) Metabolic crosstalk: molecular links between glycogen and lipid metabolism in obesity. *Diabetes*.
+
+Bridges D, **Fisher K,** Zolov SN, Xiong T, Inoki K, Weisman L, and AR Saltiel. (2012) Rab5 proteins regulate activation and localization of target of rapamycin complex 1. *Journal of Biological Chemistry* 287.

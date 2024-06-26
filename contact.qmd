@@ -1,0 +1,8 @@
+---
+title: "Contact"
+about:
+  template: trestles
+  image: vosmale.png
+---
+
+If you are interested in collaborating or just want to chat about my research, contact me at kalfisher\@ucdavis.edu.

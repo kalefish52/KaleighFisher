@@ -1,0 +1,8 @@
+---
+title: "About Me"
+about:
+  template: trestles
+  image: Kaleigh_head.png
+---
+
+I am currently a NIFA postdoctoral fellow working in Santiago Ramirez's at the University of California, Davis working on the evolution of chemoreceptor genes in bumble bees. I studied bee communities in coffee agroecosystems for my Master's degree at University of Michigan. I then completed my PhD under the supervision of Hollis Woodard at University of California, Riverside where I worked on bumble bee behavior and physiology. Check out my research page to learn about current projects.
