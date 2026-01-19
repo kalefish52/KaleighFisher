@@ -2,7 +2,7 @@
 title: "Contact"
 about:
   template: trestles
-  image: vosmale.png
+  image: 
 ---
 
-If you are interested in collaborating or just want to chat about my research, contact me at kalfisher\@ucdavis.edu.
+If you are interested in our services, please contact dmfdatascience\@gmail.com to set up a consultation.
