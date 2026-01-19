@@ -1,21 +1,13 @@
 ---
-title: "Research"
+title: "Who we are"
 about:
   template: trestles
-  image: Bvos.png
+  image: 
 ---
 
-## Chemoreceptor gene evolution in bumble bees
+## Kaleigh Fisher, PhD
 
-Chemoreceptors evolve via birth-death evolution, whereby genes duplicate and pseudogenize rapidly. The fascinating molecular evolutionary patterns commonly observed in sensory gene families likely shape many present ecological interactions because slight changes in sensory genes can completely alter the breadth of stimuli that animals detect in their environments. Moreover, previous research has demonstrated that sensory gene family evolution underlies changes in mate preferences, resource use and thus likely plays a role in adaptation and speciation. I am annotating chemosensory genes in bumble bees to compare gene diversification patterns across species, as well as to perform selection analyses to understand chemosensory gene evolution in this lineage. This dataset represents species across the phylogeny and species with different life histories to identify if diversification patterns are due to relatedness or ecological differences. For this, I am using publicly available genomes through the National Center for Biotechnology Information (NCBI) database and collaborating with the USDA Beenome100 project (<https://www.beenome100.org/>).
-
-## Chemoreceptor gene expression in the Common Eastern Bumble bee *Bombus impatiens*
-
-Chemoreceptor proteins are located on neurons in sensilla (hair-like structures) on insect antennae, mouth parts, and tarsi. There is also evidence of these receptors in internal tissues like the brain and fat body. I generated transcriptomes in all of these tissues for bumble bee queens and workers to determine where chemoreceptor genes are expressed. Odorant (smell) receptors are primarily expressed in the antennae whereas gustatory (taste) receptors are primarily expressed in the mouthparts and antennae.
-
-## Chemical ecology of bee host plants 
-
-Angiosperms have evolved a range of complex chemicals to attract pollinators. They also maintain chemicals that sustain the life history requirements of pollinators, from nutrients to chemicals that mediate communication between conspecifics. We are only beginning to characterize these chemicals broadly in bee host plants. I sampled pollen loads from bumble bees foraging in the Sierra Nevada Mountains and analyzed the chemicals present in these pollen loads. This is one of the first studies to characterize these chemicals from bumble bees foraging in natural environments.
+Services through DMF Data science are provided by Kaleigh Fisher, PhD who has expertise in data management, statistics, and biological research. She received her bachelor's and master's degrees in Biology from University of Michigan, followed by her PhD in Entomology from University of California, Riverside. She has collaborated on numerous national and international research projects related to bumble bee conservation and genomics, as well as led numerous government-funded research projects. She has taught Statistics, Evolutionary Biology, and Environmental Science as an instructor of record at University of California, Davis, and Santa Clara University.
 
 ## 
 
