@@ -2,7 +2,7 @@
 title: "DMF Data Science"
 about:
   template: broadside
-  image: 
+  image: dmf.png
 ---
 
 DMF Data Science provides consulting services related to data management, statistics, and project report generation using the R language platform. We have consulted on academic, non-profit, and private sector projects related to public health, research in ecology and evolution, and product trial data.

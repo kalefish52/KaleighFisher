@@ -7,8 +7,8 @@ website:
     left:
       - text: "Home"
         href: index.qmd
+      - Services.qmd
       - research.qmd
-      - publications.qmd
       - contact.qmd
       
 format:
